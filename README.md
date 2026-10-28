@@ -64,15 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FutureInfra is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+FutureInfra (Korean: 퓨쳐인프라) is a Korean cloud infrastructure and AI service provider offering virtual machines, container‑based applications, block storage, CDN, domain registration, DNS hosting, and AI model APIs for image, video and speech generation. All services are accessed through a single API key and a prepaid wallet, with pricing per‑use and monthly plans. The platform targets developers and “vibe coders” who prefer minimal configuration.
 
-**Areas:** Company
+**Areas:** Cloud · Infrastructure · AI · Korean · Platform
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://futureinfra.ai)
+- [Documentation](https://futureinfra.ai/docs/)
+- [Getting started](https://futureinfra.ai/docs/)
+- [API reference](https://futureinfra.ai/docs/)
+- [Pricing](https://futureinfra.ai/pricing/)
+- [Sign up](https://futureinfra.ai/console/?signup=1)
+- [Support](https://futureinfra.ai/support/)
+- [Blog](https://futureinfra.ai/blog/)
+- [Terms of service](https://futureinfra.ai/terms/)
+- [Privacy policy](https://futureinfra.ai/privacy/)
+- [GitHub](https://github.com/futureinfra)
+
+**APIs profiled:** 2
 
 ## API Evangelist rating
 
