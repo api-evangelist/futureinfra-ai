@@ -68,6 +68,67 @@ FutureInfra (Korean: 퓨쳐인프라) is a Korean cloud infrastructure and AI se
 
 **Areas:** Cloud · Infrastructure · AI · Korean · Platform
 
+## FutureInfra on APIs.io
+
+Everything profiled for FutureInfra is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/futureinfra-ai/](https://apis.io/providers/futureinfra-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [FutureInfra API](https://apis.io/apis/futureinfra-ai/futureinfra-api/) — FutureInfra REST API documentation covering authentication, server creation, firewall, and payment.
+- [FutureInfra API](https://apis.io/apis/futureinfra-ai/futureinfra-ai-api/) — FutureInfra API as documented publicly: 44 operations. Contract generated from the documentation by API Evangelist (2026-10-28); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetV1AiVoicesResponse](https://apis.io/schemas/futureinfra-ai/futureinfra-ai-get-v1-ai-voices-response/)
+- [GetV1GenModelsResponse](https://apis.io/schemas/futureinfra-ai/futureinfra-ai-get-v1-gen-models-response/)
+- [GetV1ProxyResponse](https://apis.io/schemas/futureinfra-ai/futureinfra-ai-get-v1-proxy-response/)
+- [PostV1BrainSaveRequest](https://apis.io/schemas/futureinfra-ai/futureinfra-ai-post-v1-brain-save-request/)
+- [PostV1ScrapeMyActorsRequest](https://apis.io/schemas/futureinfra-ai/futureinfra-ai-post-v1-scrape-my-actors-request/)
+- [PostV1ScrapeRunsBatchRequest](https://apis.io/schemas/futureinfra-ai/futureinfra-ai-post-v1-scrape-runs-batch-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Futureinfra Ai Context](https://apis.io/jsonld/futureinfra-ai/futureinfra-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [FutureInfra API Rules](https://apis.io/rules/futureinfra-ai/futureinfra-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Futureinfra Ai Authentication](https://apis.io/security/futureinfra-ai/futureinfra-ai-authentication/)
+- [Futureinfra Ai Domain Security](https://apis.io/security/futureinfra-ai/futureinfra-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Futureinfra Ai Scopes](https://apis.io/scopes/futureinfra-ai/futureinfra-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Futureinfra Ai Plans Pricing](https://apis.io/plans/futureinfra-ai/futureinfra-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Futureinfra Ai Rate Limits](https://apis.io/rate-limits/futureinfra-ai/futureinfra-ai-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -84,8 +145,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Privacy policy](https://futureinfra.ai/privacy/)
 - [GitHub](https://github.com/futureinfra)
 
-**APIs profiled:** 2
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/futureinfra-ai/](https://apis.io/providers/futureinfra-ai/).
+**Kin Score 57.3** — strong · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 45.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 64.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 40.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/futureinfra-ai/](https://apis.io/providers/futureinfra-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for FutureInfra: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/futureinfra-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
